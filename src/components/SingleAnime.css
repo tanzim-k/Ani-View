@@ -1,0 +1,12 @@
+.single-anime-container {
+    margin-top: 50px !important;
+}
+
+.single-anime-image {
+    border-radius: 10px;
+}
+
+.single-anime-description {
+    max-width: 400px;
+    padding: 20px;
+}
